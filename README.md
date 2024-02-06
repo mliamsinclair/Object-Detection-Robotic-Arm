@@ -51,4 +51,4 @@ The Arduino Arm Driver Board Code is responsible for controlling the robotic arm
 
 ## Documentation
 
-For more detailed information about the Object Detection Robotic Arm, please refer to the [Documentation](https://mliamsinclair.dev/assets/RoboticArmDocumentation-qFTm2Vyj.pdf) document.
+For more detailed information about this project, please refer to the [documentation](https://mliamsinclair.dev/assets/RoboticArmDocumentation-qFTm2Vyj.pdf).
