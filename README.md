@@ -48,3 +48,7 @@ The Arduino Arm Driver Board Code is responsible for controlling the robotic arm
 5. The arm can be operated in two modes:
     - Free Motion: Press the "Select" button on the gamepad to activate. Use the gamepad buttons to control the arm's movements.
     - Ball by Color: Press the "Start" button on the gamepad to activate. Use the gamepad buttons to select and grab balls of different colors.
+
+## Documentation
+
+For more detailed information about the Object Detection Robotic Arm, please refer to the [Documentation](https://mliamsinclair.dev/assets/RoboticArmDocumentation-qFTm2Vyj.pdf) document.
